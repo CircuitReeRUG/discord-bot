@@ -47,8 +47,10 @@ class Events(commands.Cog):
     # Debug line
     @tasks.loop(seconds=10)
     async def new_events(self):
-        await self.bot.change_presence(activity=random_liner, status=Status.dnd)
+        await self.bot.change_presence(activity=random_liner(), status=Status.dnd)
         # Check for new events
+        channel = self.bot.get_channel(CHANNEL_ID)
+        await channel.send("Goodbye, cruel world.")
         if events := update_check(comm=COMMITTEE):
             # Debug, add to logging instead
             print(f"New event{'s' if len(events)> 1 else ''} found @ {datetime.datetime.now().strftime('%Y-%m-%d')}")

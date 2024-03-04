@@ -1,11 +1,7 @@
 import asyncio
 import discord
 from discord.ext import commands
-from os import listdir
-
-# TOKEN as environment variable
-from os import environ
-
+from os import listdir, environ
 
 TOKEN = environ.get("DISCORD_TOKEN")
 guild_id = 1208551782133927987

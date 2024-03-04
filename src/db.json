@@ -1,0 +1,34 @@
+{
+  "Ice Skating": {
+    "organizer": "SporTee",
+    "date": "2023-03-17",
+    "time": "19:00",
+    "location": "Kardingerplein 1, 9735 AA Groningen",
+    "description": "SporTee presents to you the first sport activity of the year and especially for those who cannot get enough of wintersports!",
+    "link": " https://www.svcover.nl/calendar?agenda_id=4002"
+  },
+  "Bouldering at APEX": {
+    "organizer": "SporTee",
+    "date": "2023-06-07",
+    "time": "17:00",
+    "location": "Apex Boulders, Atoomweg 19A, 9743 AJ Groningen",
+    "description": "Are you an over achiever? Do you like challenges? Do you like solving puzzles? Are you jealous of montain goats? If you answered \"yes\" to one or more of these questions, join us for a fun bouldering evening at APEX! ",
+    "link": " https://www.svcover.nl/calendar?agenda_id=4127"
+  },
+  "SV Cover Futsal Tournament": {
+    "organizer": "SporTee",
+    "date": "2023-12-15",
+    "time": "14:30",
+    "location": "Struikhal, ACLO Sportscentre",
+    "description": "Hello everyone, the impossible is about to happen, we are going to announce a SporTee event\ud83e\udd73!!\nIt is time for a little competition, battles from friends to friends, mentor to mentee. Invite all of your friends for a tournament of a short, quick version of the most popular sport in the world. \nIt is time for a futsal tournament\u26bd\u26bd!!!",
+    "link": " https://www.svcover.nl/calendar?agenda_id=4304"
+  },
+  "Latin Solo Dance Workshop": {
+    "organizer": "SporTee",
+    "date": "2024-03-05",
+    "time": "18:30",
+    "location": "Balletschool La Danse, Hofstraat 19",
+    "description": "\ud83c\udf1f Discover the Rhythm of Latin Dance! \ud83c\udf1f",
+    "link": " https://www.svcover.nl/calendar?agenda_id=4406"
+  }
+}
